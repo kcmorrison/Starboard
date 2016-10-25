@@ -163,7 +163,6 @@ GameObject:
   - 33: {fileID: 3264856}
   - 23: {fileID: 3264855}
   - 136: {fileID: 3264857}
-  - 54: {fileID: 3264858}
   m_Layer: 0
   m_Name: pCube2
   m_TagString: Rocks
@@ -237,22 +236,6 @@ CapsuleCollider:
   m_Height: 0.013125046
   m_Direction: 1
   m_Center: {x: 0.0059525515, y: 0.079386584, z: 0.005194854}
---- !u!54 &3264858
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012786149450, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 3264853}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &6562284
 GameObject:
   m_ObjectHideFlags: 0
@@ -603,7 +586,6 @@ GameObject:
   - 33: {fileID: 25038042}
   - 23: {fileID: 25038041}
   - 136: {fileID: 25038043}
-  - 54: {fileID: 25038044}
   m_Layer: 0
   m_Name: pCube1.010
   m_TagString: Rocks
@@ -677,22 +659,6 @@ CapsuleCollider:
   m_Height: 0.015553185
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!54 &25038044
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010988350420, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 25038039}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!4 &25199342
 Transform:
   m_ObjectHideFlags: 0
@@ -1049,7 +1015,6 @@ GameObject:
   - 33: {fileID: 41783463}
   - 23: {fileID: 41783462}
   - 136: {fileID: 41783464}
-  - 54: {fileID: 41783465}
   m_Layer: 0
   m_Name: pCube2.017
   m_TagString: Rocks
@@ -1123,22 +1088,6 @@ CapsuleCollider:
   m_Height: 0.013125051
   m_Direction: 1
   m_Center: {x: -0.00018405542, y: 0.041030638, z: 0.0009447099}
---- !u!54 &41783465
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011671767140, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 41783460}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &42215543
 GameObject:
   m_ObjectHideFlags: 0
@@ -2036,7 +1985,6 @@ GameObject:
   - 33: {fileID: 91497187}
   - 23: {fileID: 91497186}
   - 136: {fileID: 91497188}
-  - 54: {fileID: 91497189}
   m_Layer: 0
   m_Name: pCube1.023
   m_TagString: Rocks
@@ -2110,22 +2058,6 @@ CapsuleCollider:
   m_Height: 0.017129041
   m_Direction: 1
   m_Center: {x: -0.0185726, y: 0.06476039, z: 0.0029599292}
---- !u!54 &91497189
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011725808844, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 91497184}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &92370861
 GameObject:
   m_ObjectHideFlags: 0
@@ -2231,7 +2163,6 @@ GameObject:
   - 33: {fileID: 99254608}
   - 23: {fileID: 99254607}
   - 136: {fileID: 99254609}
-  - 54: {fileID: 99254610}
   m_Layer: 0
   m_Name: pCube1.013
   m_TagString: Rocks
@@ -2305,22 +2236,6 @@ CapsuleCollider:
   m_Height: 0.015553192
   m_Direction: 1
   m_Center: {x: 0.0244771, y: 0.15709352, z: -0.0022770334}
---- !u!54 &99254610
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013462906330, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 99254605}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &99591724
 GameObject:
   m_ObjectHideFlags: 0
@@ -2660,6 +2575,35 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 114319954}
   m_Mesh: {fileID: 4300016, guid: 610fbc9863951d54cb4bad118d2882e6, type: 3}
+--- !u!21 &114611213
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sprites/Default
+  m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: PixelSnap
+      second: 0
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &115934899
 GameObject:
   m_ObjectHideFlags: 0
@@ -3075,7 +3019,6 @@ GameObject:
   - 33: {fileID: 136328525}
   - 23: {fileID: 136328524}
   - 136: {fileID: 136328526}
-  - 54: {fileID: 136328527}
   m_Layer: 0
   m_Name: pCube1.011
   m_TagString: Rocks
@@ -3149,22 +3092,6 @@ CapsuleCollider:
   m_Height: 0.015553204
   m_Direction: 1
   m_Center: {x: 0.028124658, y: 0.18028525, z: -0.0026321355}
---- !u!54 &136328527
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013992539560, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 136328522}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &138154660
 GameObject:
   m_ObjectHideFlags: 0
@@ -4390,7 +4317,6 @@ GameObject:
   - 33: {fileID: 214993625}
   - 23: {fileID: 214993624}
   - 136: {fileID: 214993626}
-  - 54: {fileID: 214993627}
   m_Layer: 0
   m_Name: pCube3.003
   m_TagString: Rocks
@@ -4464,22 +4390,6 @@ CapsuleCollider:
   m_Height: 0.009999991
   m_Direction: 1
   m_Center: {x: -0.09752634, y: 0.44256485, z: 0.031740833}
---- !u!54 &214993627
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013208803406, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 214993622}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &215652471
 GameObject:
   m_ObjectHideFlags: 0
@@ -5124,7 +5034,6 @@ GameObject:
   - 33: {fileID: 246250975}
   - 23: {fileID: 246250974}
   - 136: {fileID: 246250976}
-  - 54: {fileID: 246250977}
   m_Layer: 0
   m_Name: pCube1.022
   m_TagString: Rocks
@@ -5198,22 +5107,6 @@ CapsuleCollider:
   m_Height: 0.0155531755
   m_Direction: 1
   m_Center: {x: 0.009946486, y: 0.31223568, z: -0.00068277883}
---- !u!54 &246250977
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011266702000, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 246250972}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &246525266
 GameObject:
   m_ObjectHideFlags: 0
@@ -5256,7 +5149,6 @@ GameObject:
   - 33: {fileID: 248307854}
   - 23: {fileID: 248307853}
   - 136: {fileID: 248307855}
-  - 54: {fileID: 248307856}
   m_Layer: 0
   m_Name: pCube2.004
   m_TagString: Rocks
@@ -5330,22 +5222,6 @@ CapsuleCollider:
   m_Height: 0.01792036
   m_Direction: 1
   m_Center: {x: -0.048220433, y: 0.20031989, z: 0.010881679}
---- !u!54 &248307856
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012491696466, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 248307851}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &249862928
 GameObject:
   m_ObjectHideFlags: 0
@@ -5594,7 +5470,6 @@ GameObject:
   - 33: {fileID: 265240247}
   - 23: {fileID: 265240246}
   - 136: {fileID: 265240248}
-  - 54: {fileID: 265240249}
   m_Layer: 0
   m_Name: pCube1.043
   m_TagString: Rocks
@@ -5668,22 +5543,6 @@ CapsuleCollider:
   m_Height: 0.01712904
   m_Direction: 1
   m_Center: {x: -0.018572599, y: 0.06476038, z: 0.0029599308}
---- !u!54 &265240249
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010260939314, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 265240244}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &269097409
 GameObject:
   m_ObjectHideFlags: 0
@@ -5834,7 +5693,6 @@ GameObject:
   - 33: {fileID: 277537519}
   - 23: {fileID: 277537518}
   - 136: {fileID: 277537520}
-  - 54: {fileID: 277537521}
   m_Layer: 0
   m_Name: pCube2.026
   m_TagString: Rocks
@@ -5908,22 +5766,6 @@ CapsuleCollider:
   m_Height: 0.013125051
   m_Direction: 1
   m_Center: {x: -0.00018405734, y: 0.041030638, z: 0.0009447098}
---- !u!54 &277537521
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011286708820, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 277537516}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &278557568
 GameObject:
   m_ObjectHideFlags: 0
@@ -6059,7 +5901,6 @@ GameObject:
   - 33: {fileID: 284086337}
   - 23: {fileID: 284086336}
   - 136: {fileID: 284086338}
-  - 54: {fileID: 284086339}
   m_Layer: 0
   m_Name: pCube1.012
   m_TagString: Rocks
@@ -6133,22 +5974,6 @@ CapsuleCollider:
   m_Height: 0.021375254
   m_Direction: 1
   m_Center: {x: -0.00036726875, y: 0.08241815, z: 0.010183793}
---- !u!54 &284086339
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012195058584, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 284086334}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &286636275
 GameObject:
   m_ObjectHideFlags: 0
@@ -6161,7 +5986,6 @@ GameObject:
   - 33: {fileID: 286636278}
   - 23: {fileID: 286636277}
   - 136: {fileID: 286636279}
-  - 54: {fileID: 286636280}
   m_Layer: 0
   m_Name: pCube1.041
   m_TagString: Rocks
@@ -6235,22 +6059,6 @@ CapsuleCollider:
   m_Height: 0.021375254
   m_Direction: 1
   m_Center: {x: -0.0003672677, y: 0.08241815, z: 0.010183795}
---- !u!54 &286636280
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011377179008, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 286636275}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!4 &288836717
 Transform:
   m_ObjectHideFlags: 0
@@ -6639,7 +6447,6 @@ GameObject:
   - 33: {fileID: 306380670}
   - 23: {fileID: 306380669}
   - 136: {fileID: 306380671}
-  - 54: {fileID: 306380672}
   m_Layer: 0
   m_Name: pCube2.034
   m_TagString: Rocks
@@ -6713,22 +6520,6 @@ CapsuleCollider:
   m_Height: 0.013125049
   m_Direction: 1
   m_Center: {x: 0.0048419083, y: 0.055059183, z: 0.0025041571}
---- !u!54 &306380672
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012775868778, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 306380667}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &308262662
 GameObject:
   m_ObjectHideFlags: 0
@@ -7639,7 +7430,6 @@ GameObject:
   - 33: {fileID: 339991973}
   - 23: {fileID: 339991972}
   - 136: {fileID: 339991974}
-  - 54: {fileID: 339991975}
   m_Layer: 0
   m_Name: pCube2.022
   m_TagString: Rocks
@@ -7713,22 +7503,6 @@ CapsuleCollider:
   m_Height: 0.01792036
   m_Direction: 1
   m_Center: {x: -0.048220426, y: 0.20031992, z: 0.010881667}
---- !u!54 &339991975
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013893087854, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 339991970}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &341679822
 GameObject:
   m_ObjectHideFlags: 0
@@ -7790,134 +7564,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1384525884}
   m_RootOrder: 2
---- !u!43 &351232143
-Mesh:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: 
-  serializedVersion: 8
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 24
-    topology: 0
-    firstVertex: 0
-    vertexCount: 8
-    localAABB:
-      m_Center: {x: 0, y: 0.01, z: 0}
-      m_Extent: {x: 1.65, y: 0, z: 1.275}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexBuffer: 000004000100010004000500010005000200020005000600020006000300030006000700030007000000000007000400
-  m_Skin: []
-  m_VertexData:
-    m_CurrentChannels: 13
-    m_VertexCount: 8
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 4
-    - stream: 0
-      offset: 28
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 288
-    _typelessdata: 0000c03f0ad7233c0000903f000000000000803f0000803f0000803f00000000000000000000c03f0ad7233c000090bf000000000000803f0000803f0000803f0000803f000000000000c0bf0ad7233c000090bf000000000000803f0000803f0000803f00000000000000000000c0bf0ad7233c0000903f000000000000803f0000803f0000803f0000803f000000003333d33f0ad7233c3333a33f000000000000803f0000803f00000000000000000000803f3333d33f0ad7233c3333a3bf000000000000803f0000803f000000000000803f0000803f3333d3bf0ad7233c3333a3bf000000000000803f0000803f00000000000000000000803f3333d3bf0ad7233c3333a33f000000000000803f0000803f000000000000803f0000803f
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: 0, y: 0.01, z: 0}
-    m_Extent: {x: 1.65, y: 0, z: 1.275}
-  m_MeshUsageFlags: 0
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  m_MeshOptimized: 0
 --- !u!1 &351609198
 GameObject:
   m_ObjectHideFlags: 0
@@ -7961,7 +7607,6 @@ GameObject:
   - 33: {fileID: 351717694}
   - 23: {fileID: 351717693}
   - 136: {fileID: 351717695}
-  - 54: {fileID: 351717696}
   m_Layer: 0
   m_Name: pCube2.015
   m_TagString: Rocks
@@ -8035,22 +7680,6 @@ CapsuleCollider:
   m_Height: 0.013125046
   m_Direction: 1
   m_Center: {x: 0.004841908, y: 0.055059172, z: 0.002504158}
---- !u!54 &351717696
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011544478958, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 351717691}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &352754314
 GameObject:
   m_ObjectHideFlags: 0
@@ -8063,7 +7692,6 @@ GameObject:
   - 33: {fileID: 352754317}
   - 23: {fileID: 352754316}
   - 136: {fileID: 352754318}
-  - 54: {fileID: 352754319}
   m_Layer: 0
   m_Name: pCube2.014
   m_TagString: Rocks
@@ -8137,22 +7765,6 @@ CapsuleCollider:
   m_Height: 0.00999999
   m_Direction: 1
   m_Center: {x: -0.02526655, y: 0.27117905, z: 0.02496022}
---- !u!54 &352754319
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011335171228, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 352754314}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &352881146
 GameObject:
   m_ObjectHideFlags: 0
@@ -8430,7 +8042,6 @@ GameObject:
   - 33: {fileID: 369630016}
   - 23: {fileID: 369630015}
   - 136: {fileID: 369630017}
-  - 54: {fileID: 369630018}
   m_Layer: 0
   m_Name: pCube3.001
   m_TagString: Rocks
@@ -8504,22 +8115,6 @@ CapsuleCollider:
   m_Height: 0.00999999
   m_Direction: 1
   m_Center: {x: -0.09752633, y: 0.44256482, z: 0.03174082}
---- !u!54 &369630018
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012713548634, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 369630013}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &372626389
 GameObject:
   m_ObjectHideFlags: 0
@@ -8934,7 +8529,6 @@ GameObject:
   - 33: {fileID: 384059396}
   - 23: {fileID: 384059395}
   - 136: {fileID: 384059397}
-  - 54: {fileID: 384059398}
   m_Layer: 0
   m_Name: pCube2.035
   m_TagString: Rocks
@@ -9008,22 +8602,6 @@ CapsuleCollider:
   m_Height: 0.013125047
   m_Direction: 1
   m_Center: {x: 0.0048419093, y: 0.055059176, z: 0.0025041571}
---- !u!54 &384059398
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010702520918, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 384059393}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &387937452
 GameObject:
   m_ObjectHideFlags: 0
@@ -9351,7 +8929,6 @@ GameObject:
   - 33: {fileID: 397717339}
   - 23: {fileID: 397717338}
   - 136: {fileID: 397717340}
-  - 54: {fileID: 397717341}
   m_Layer: 0
   m_Name: pCube1.027
   m_TagString: Rocks
@@ -9425,22 +9002,6 @@ CapsuleCollider:
   m_Height: 0.021375256
   m_Direction: 1
   m_Center: {x: -0.00036726764, y: 0.08241815, z: 0.010183795}
---- !u!54 &397717341
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012947702420, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 397717336}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &398479656
 GameObject:
   m_ObjectHideFlags: 0
@@ -10159,7 +9720,6 @@ GameObject:
   - 33: {fileID: 437022398}
   - 23: {fileID: 437022397}
   - 136: {fileID: 437022399}
-  - 54: {fileID: 437022400}
   m_Layer: 0
   m_Name: pCube1.020
   m_TagString: Rocks
@@ -10233,22 +9793,6 @@ CapsuleCollider:
   m_Height: 0.021375254
   m_Direction: 1
   m_Center: {x: -0.0003672723, y: 0.08241815, z: 0.010183795}
---- !u!54 &437022400
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010846281974, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 437022395}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &438191922
 GameObject:
   m_ObjectHideFlags: 0
@@ -11497,7 +11041,6 @@ GameObject:
   - 33: {fileID: 499275388}
   - 23: {fileID: 499275387}
   - 136: {fileID: 499275389}
-  - 54: {fileID: 499275390}
   m_Layer: 0
   m_Name: pCube2.003
   m_TagString: Rocks
@@ -11571,22 +11114,6 @@ CapsuleCollider:
   m_Height: 0.013125048
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0.0000000018626451}
---- !u!54 &499275390
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000014252627220, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 499275385}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &500453245
 GameObject:
   m_ObjectHideFlags: 0
@@ -12075,7 +11602,6 @@ GameObject:
   - 33: {fileID: 522217728}
   - 23: {fileID: 522217727}
   - 136: {fileID: 522217729}
-  - 54: {fileID: 522217730}
   m_Layer: 0
   m_Name: pCube1.040
   m_TagString: Rocks
@@ -12149,22 +11675,6 @@ CapsuleCollider:
   m_Height: 0.015553176
   m_Direction: 1
   m_Center: {x: 0.009946496, y: 0.31223568, z: -0.0006827698}
---- !u!54 &522217730
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011808569188, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 522217725}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &523414792
 GameObject:
   m_ObjectHideFlags: 0
@@ -12610,7 +12120,6 @@ GameObject:
   - 33: {fileID: 554778581}
   - 23: {fileID: 554778580}
   - 136: {fileID: 554778582}
-  - 54: {fileID: 554778583}
   m_Layer: 0
   m_Name: pCube2.019
   m_TagString: Rocks
@@ -12684,22 +12193,6 @@ CapsuleCollider:
   m_Height: 0.009999991
   m_Direction: 1
   m_Center: {x: -0.025266554, y: 0.27117908, z: 0.024960227}
---- !u!54 &554778583
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010156664624, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 554778578}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &560428061
 GameObject:
   m_ObjectHideFlags: 0
@@ -12960,7 +12453,6 @@ GameObject:
   - 33: {fileID: 573089672}
   - 23: {fileID: 573089671}
   - 136: {fileID: 573089673}
-  - 54: {fileID: 573089674}
   m_Layer: 0
   m_Name: pCube1.025
   m_TagString: Rocks
@@ -13034,22 +12526,6 @@ CapsuleCollider:
   m_Height: 0.015553176
   m_Direction: 1
   m_Center: {x: 0.009946472, y: 0.31223568, z: -0.00068278867}
---- !u!54 &573089674
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010918467788, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 573089669}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &579342838
 GameObject:
   m_ObjectHideFlags: 0
@@ -15257,7 +14733,6 @@ GameObject:
   - 33: {fileID: 674511526}
   - 23: {fileID: 674511525}
   - 136: {fileID: 674511527}
-  - 54: {fileID: 674511528}
   m_Layer: 0
   m_Name: pCube1.032
   m_TagString: Rocks
@@ -15331,22 +14806,6 @@ CapsuleCollider:
   m_Height: 0.021375252
   m_Direction: 1
   m_Center: {x: -0.00036726982, y: 0.082418144, z: 0.0101837935}
---- !u!54 &674511528
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010107215538, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 674511523}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &675092530
 GameObject:
   m_ObjectHideFlags: 0
@@ -15578,35 +15037,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1594736812}
   m_RootOrder: 0
---- !u!21 &685346626
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: Sprites/Default
-  m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  m_SavedProperties:
-    serializedVersion: 2
-    m_TexEnvs:
-    - first:
-        name: _MainTex
-      second:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats:
-    - first:
-        name: PixelSnap
-      second: 0
-    m_Colors:
-    - first:
-        name: _Color
-      second: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &686957171
 GameObject:
   m_ObjectHideFlags: 0
@@ -15886,7 +15316,6 @@ GameObject:
   - 33: {fileID: 721033531}
   - 23: {fileID: 721033530}
   - 136: {fileID: 721033532}
-  - 54: {fileID: 721033533}
   m_Layer: 0
   m_Name: pCube1.033
   m_TagString: Rocks
@@ -15960,22 +15389,6 @@ CapsuleCollider:
   m_Height: 0.017129041
   m_Direction: 1
   m_Center: {x: -0.0185726, y: 0.06476039, z: 0.002959931}
---- !u!54 &721033533
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010723648280, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 721033528}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &723698177
 GameObject:
   m_ObjectHideFlags: 0
@@ -16120,7 +15533,6 @@ GameObject:
   - 33: {fileID: 733300898}
   - 23: {fileID: 733300897}
   - 136: {fileID: 733300899}
-  - 54: {fileID: 733300900}
   m_Layer: 0
   m_Name: pCube2.018
   m_TagString: Rocks
@@ -16194,22 +15606,6 @@ CapsuleCollider:
   m_Height: 0.013125051
   m_Direction: 1
   m_Center: {x: -0.00018405558, y: 0.041030638, z: 0.0009447099}
---- !u!54 &733300900
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010181572748, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 733300895}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &733432116
 GameObject:
   m_ObjectHideFlags: 0
@@ -17672,7 +17068,6 @@ GameObject:
   - 33: {fileID: 821914677}
   - 23: {fileID: 821914676}
   - 136: {fileID: 821914678}
-  - 54: {fileID: 821914679}
   m_Layer: 0
   m_Name: pCube1.001
   m_TagString: Rocks
@@ -17746,22 +17141,6 @@ CapsuleCollider:
   m_Height: 0.017129038
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: -0.0000000018626451}
---- !u!54 &821914679
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011236997054, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 821914674}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &824566615
 GameObject:
   m_ObjectHideFlags: 0
@@ -19191,7 +18570,6 @@ GameObject:
   - 33: {fileID: 884014793}
   - 23: {fileID: 884014792}
   - 136: {fileID: 884014794}
-  - 54: {fileID: 884014795}
   m_Layer: 0
   m_Name: pCube2.033
   m_TagString: Rocks
@@ -19265,22 +18643,6 @@ CapsuleCollider:
   m_Height: 0.00999999
   m_Direction: 1
   m_Center: {x: -0.048404083, y: 0.46508983, z: 0.03029591}
---- !u!54 &884014795
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012647099710, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 884014790}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &884304785
 GameObject:
   m_ObjectHideFlags: 0
@@ -19363,7 +18725,6 @@ GameObject:
   - 33: {fileID: 895851575}
   - 23: {fileID: 895851574}
   - 136: {fileID: 895851576}
-  - 54: {fileID: 895851577}
   m_Layer: 0
   m_Name: pCube2.009
   m_TagString: Rocks
@@ -19437,22 +18798,6 @@ CapsuleCollider:
   m_Height: 0.01792036
   m_Direction: 1
   m_Center: {x: -0.04822044, y: 0.20031992, z: 0.010881682}
---- !u!54 &895851577
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000014266696354, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 895851572}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &896431170
 GameObject:
   m_ObjectHideFlags: 0
@@ -19939,7 +19284,6 @@ GameObject:
   - 33: {fileID: 918962270}
   - 23: {fileID: 918962269}
   - 136: {fileID: 918962271}
-  - 54: {fileID: 918962272}
   m_Layer: 0
   m_Name: pCube1.008
   m_TagString: Rocks
@@ -20013,22 +19357,6 @@ CapsuleCollider:
   m_Height: 0.015553191
   m_Direction: 1
   m_Center: {x: 0.024477098, y: 0.15709352, z: -0.0022770315}
---- !u!54 &918962272
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010868285202, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 918962267}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &919333135
 GameObject:
   m_ObjectHideFlags: 0
@@ -20269,7 +19597,6 @@ GameObject:
   - 33: {fileID: 931697961}
   - 23: {fileID: 931697960}
   - 136: {fileID: 931697962}
-  - 54: {fileID: 931697963}
   m_Layer: 0
   m_Name: pCube1.024
   m_TagString: Rocks
@@ -20343,22 +19670,6 @@ CapsuleCollider:
   m_Height: 0.015553178
   m_Direction: 1
   m_Center: {x: 0.009946482, y: 0.31223574, z: -0.00068278116}
---- !u!54 &931697963
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010640361896, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 931697958}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!4 &931933038
 Transform:
   m_ObjectHideFlags: 0
@@ -20483,7 +19794,6 @@ GameObject:
   - 33: {fileID: 936058335}
   - 23: {fileID: 936058334}
   - 136: {fileID: 936058336}
-  - 54: {fileID: 936058337}
   m_Layer: 0
   m_Name: pCube1.030
   m_TagString: Rocks
@@ -20557,22 +19867,6 @@ CapsuleCollider:
   m_Height: 0.015553206
   m_Direction: 1
   m_Center: {x: 0.028124655, y: 0.18028525, z: -0.0026321306}
---- !u!54 &936058337
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010506178216, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 936058332}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &941782214
 GameObject:
   m_ObjectHideFlags: 0
@@ -20866,7 +20160,6 @@ GameObject:
   - 33: {fileID: 952247396}
   - 23: {fileID: 952247395}
   - 136: {fileID: 952247397}
-  - 54: {fileID: 952247398}
   m_Layer: 0
   m_Name: pCube2.021
   m_TagString: Rocks
@@ -20940,22 +20233,6 @@ CapsuleCollider:
   m_Height: 0.013125047
   m_Direction: 1
   m_Center: {x: 0.0048419083, y: 0.055059176, z: 0.0025041578}
---- !u!54 &952247398
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011682245968, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 952247393}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &952962296
 GameObject:
   m_ObjectHideFlags: 0
@@ -22134,7 +21411,6 @@ GameObject:
   - 33: {fileID: 1009884867}
   - 23: {fileID: 1009884866}
   - 136: {fileID: 1009884868}
-  - 54: {fileID: 1009884869}
   m_Layer: 0
   m_Name: pCube2.016
   m_TagString: Rocks
@@ -22208,22 +21484,6 @@ CapsuleCollider:
   m_Height: 0.01792036
   m_Direction: 1
   m_Center: {x: -0.04822044, y: 0.20031992, z: 0.010881672}
---- !u!54 &1009884869
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013036279600, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1009884864}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1013403990
 GameObject:
   m_ObjectHideFlags: 0
@@ -22331,7 +21591,6 @@ GameObject:
   - 33: {fileID: 1016410257}
   - 23: {fileID: 1016410256}
   - 136: {fileID: 1016410258}
-  - 54: {fileID: 1016410259}
   m_Layer: 0
   m_Name: pCube1.016
   m_TagString: Rocks
@@ -22405,22 +21664,6 @@ CapsuleCollider:
   m_Height: 0.021375254
   m_Direction: 1
   m_Center: {x: -0.00036726956, y: 0.08241815, z: 0.010183793}
---- !u!54 &1016410259
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011010056746, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1016410254}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1018367793
 GameObject:
   m_ObjectHideFlags: 0
@@ -22494,7 +21737,6 @@ GameObject:
   - 33: {fileID: 1020286026}
   - 23: {fileID: 1020286025}
   - 136: {fileID: 1020286027}
-  - 54: {fileID: 1020286028}
   m_Layer: 0
   m_Name: pCube2.020
   m_TagString: Rocks
@@ -22568,22 +21810,6 @@ CapsuleCollider:
   m_Height: 0.01792036
   m_Direction: 1
   m_Center: {x: -0.04822044, y: 0.20031992, z: 0.010881672}
---- !u!54 &1020286028
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010385736562, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1020286023}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1021812872
 GameObject:
   m_ObjectHideFlags: 0
@@ -23239,7 +22465,6 @@ GameObject:
   - 33: {fileID: 1045118011}
   - 23: {fileID: 1045118010}
   - 136: {fileID: 1045118012}
-  - 54: {fileID: 1045118013}
   m_Layer: 0
   m_Name: pCube1.019
   m_TagString: Rocks
@@ -23313,22 +22538,6 @@ CapsuleCollider:
   m_Height: 0.015553191
   m_Direction: 1
   m_Center: {x: 0.024477106, y: 0.15709352, z: -0.0022770304}
---- !u!54 &1045118013
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011126489172, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1045118008}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1045755655
 GameObject:
   m_ObjectHideFlags: 0
@@ -23713,6 +22922,134 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.0032955185, y: 0.043777656, z: 0.0021459162}
     m_Extent: {x: 0.03242867, y: 0.062129308, z: 0.024119869}
   m_DirtyAABB: 0
+--- !u!43 &1062309835
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 24
+    topology: 0
+    firstVertex: 0
+    vertexCount: 8
+    localAABB:
+      m_Center: {x: 0, y: 0.01, z: 0}
+      m_Extent: {x: 1.65, y: 0, z: 1.275}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 000004000100010004000500010005000200020005000600020006000300030006000700030007000000000007000400
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 13
+    m_VertexCount: 8
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 28
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 288
+    _typelessdata: 0000c03f0ad7233c0000903f000000000000803f0000803f0000803f00000000000000000000c03f0ad7233c000090bf000000000000803f0000803f0000803f0000803f000000000000c0bf0ad7233c000090bf000000000000803f0000803f0000803f00000000000000000000c0bf0ad7233c0000903f000000000000803f0000803f0000803f0000803f000000003333d33f0ad7233c3333a33f000000000000803f0000803f00000000000000000000803f3333d33f0ad7233c3333a3bf000000000000803f0000803f000000000000803f0000803f3333d3bf0ad7233c3333a3bf000000000000803f0000803f00000000000000000000803f3333d3bf0ad7233c3333a33f000000000000803f0000803f000000000000803f0000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0.01, z: 0}
+    m_Extent: {x: 1.65, y: 0, z: 1.275}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0
 --- !u!1 &1062764992
 GameObject:
   m_ObjectHideFlags: 0
@@ -23755,7 +23092,6 @@ GameObject:
   - 33: {fileID: 1069918639}
   - 23: {fileID: 1069918638}
   - 136: {fileID: 1069918640}
-  - 54: {fileID: 1069918641}
   m_Layer: 0
   m_Name: pCube1.007
   m_TagString: Rocks
@@ -23829,22 +23165,6 @@ CapsuleCollider:
   m_Height: 0.015553177
   m_Direction: 1
   m_Center: {x: 0.009946504, y: 0.3122357, z: -0.0006827791}
---- !u!54 &1069918641
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000014019601858, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1069918636}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1070902234
 GameObject:
   m_ObjectHideFlags: 0
@@ -24024,7 +23344,6 @@ GameObject:
   - 33: {fileID: 1088647894}
   - 23: {fileID: 1088647893}
   - 136: {fileID: 1088647895}
-  - 54: {fileID: 1088647896}
   m_Layer: 0
   m_Name: pCube2.036
   m_TagString: Rocks
@@ -24098,22 +23417,6 @@ CapsuleCollider:
   m_Height: 0.00999999
   m_Direction: 1
   m_Center: {x: -0.025266547, y: 0.27117905, z: 0.024960237}
---- !u!54 &1088647896
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012512969354, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1088647891}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1089800037
 GameObject:
   m_ObjectHideFlags: 0
@@ -24296,7 +23599,6 @@ GameObject:
   - 33: {fileID: 1096662560}
   - 23: {fileID: 1096662559}
   - 136: {fileID: 1096662561}
-  - 54: {fileID: 1096662562}
   m_Layer: 0
   m_Name: pCube2.025
   m_TagString: Rocks
@@ -24370,22 +23672,6 @@ CapsuleCollider:
   m_Height: 0.013125048
   m_Direction: 1
   m_Center: {x: 0.0048419065, y: 0.055059176, z: 0.0025041578}
---- !u!54 &1096662562
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011773294076, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1096662557}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1096892206
 GameObject:
   m_ObjectHideFlags: 0
@@ -24653,7 +23939,6 @@ GameObject:
   - 33: {fileID: 1120263071}
   - 23: {fileID: 1120263070}
   - 136: {fileID: 1120263072}
-  - 54: {fileID: 1120263073}
   m_Layer: 0
   m_Name: pCube2.008
   m_TagString: Rocks
@@ -24727,22 +24012,6 @@ CapsuleCollider:
   m_Height: 0.013125047
   m_Direction: 1
   m_Center: {x: 0.0048419083, y: 0.055059176, z: 0.0025041597}
---- !u!54 &1120263073
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013973899602, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1120263068}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1124863858
 GameObject:
   m_ObjectHideFlags: 0
@@ -25128,7 +24397,6 @@ GameObject:
   - 33: {fileID: 1146624482}
   - 23: {fileID: 1146624481}
   - 136: {fileID: 1146624483}
-  - 54: {fileID: 1146624484}
   m_Layer: 0
   m_Name: pCube2.024
   m_TagString: Rocks
@@ -25202,22 +24470,6 @@ CapsuleCollider:
   m_Height: 0.013125047
   m_Direction: 1
   m_Center: {x: 0.0048419083, y: 0.055059176, z: 0.0025041576}
---- !u!54 &1146624484
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013535585950, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1146624479}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1147808741
 GameObject:
   m_ObjectHideFlags: 0
@@ -25230,7 +24482,6 @@ GameObject:
   - 33: {fileID: 1147808744}
   - 23: {fileID: 1147808743}
   - 136: {fileID: 1147808745}
-  - 54: {fileID: 1147808746}
   m_Layer: 0
   m_Name: pCube1.028
   m_TagString: Rocks
@@ -25304,22 +24555,6 @@ CapsuleCollider:
   m_Height: 0.015553208
   m_Direction: 1
   m_Center: {x: 0.028124653, y: 0.18028526, z: -0.0026321413}
---- !u!54 &1147808746
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010316781866, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1147808741}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1148198101
 GameObject:
   m_ObjectHideFlags: 0
@@ -25659,7 +24894,6 @@ GameObject:
   - 33: {fileID: 1159067428}
   - 23: {fileID: 1159067427}
   - 136: {fileID: 1159067429}
-  - 54: {fileID: 1159067430}
   m_Layer: 0
   m_Name: pCube1.017
   m_TagString: Rocks
@@ -25733,22 +24967,6 @@ CapsuleCollider:
   m_Height: 0.015553176
   m_Direction: 1
   m_Center: {x: 0.009946482, y: 0.3122357, z: -0.00068277994}
---- !u!54 &1159067430
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013905172074, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1159067425}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1159809202
 GameObject:
   m_ObjectHideFlags: 0
@@ -25984,7 +25202,6 @@ GameObject:
   - 33: {fileID: 1165420570}
   - 23: {fileID: 1165420569}
   - 136: {fileID: 1165420571}
-  - 54: {fileID: 1165420572}
   m_Layer: 0
   m_Name: pCube2.002
   m_TagString: Rocks
@@ -26058,22 +25275,6 @@ CapsuleCollider:
   m_Height: 0.009999991
   m_Direction: 1
   m_Center: {x: -0.025266556, y: 0.27117905, z: 0.024960227}
---- !u!54 &1165420572
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010775285470, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1165420567}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1172527000
 GameObject:
   m_ObjectHideFlags: 0
@@ -26915,7 +26116,6 @@ GameObject:
   - 33: {fileID: 1216951342}
   - 23: {fileID: 1216951341}
   - 136: {fileID: 1216951343}
-  - 54: {fileID: 1216951344}
   m_Layer: 0
   m_Name: pCube2.010
   m_TagString: Rocks
@@ -26989,22 +26189,6 @@ CapsuleCollider:
   m_Height: 0.013125052
   m_Direction: 1
   m_Center: {x: -0.00018405572, y: 0.041030638, z: 0.00094471057}
---- !u!54 &1216951344
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011350800664, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1216951339}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1219029790
 GameObject:
   m_ObjectHideFlags: 0
@@ -27118,7 +26302,6 @@ GameObject:
   - 33: {fileID: 1223542565}
   - 23: {fileID: 1223542564}
   - 136: {fileID: 1223542566}
-  - 54: {fileID: 1223542567}
   m_Layer: 0
   m_Name: pCube2.037
   m_TagString: Rocks
@@ -27192,22 +26375,6 @@ CapsuleCollider:
   m_Height: 0.00999999
   m_Direction: 1
   m_Center: {x: -0.025266549, y: 0.27117905, z: 0.024960227}
---- !u!54 &1223542567
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012530938122, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1223542562}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1224821782
 GameObject:
   m_ObjectHideFlags: 0
@@ -27809,11 +26976,11 @@ Prefab:
     - target: {fileID: 2301964, guid: b0047dd65ff208349bf3a5aaaeae24d0, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 685346626}
+      objectReference: {fileID: 114611213}
     - target: {fileID: 3392232, guid: b0047dd65ff208349bf3a5aaaeae24d0, type: 2}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 351232143}
+      objectReference: {fileID: 1062309835}
     - target: {fileID: 485686, guid: b0047dd65ff208349bf3a5aaaeae24d0, type: 2}
       propertyPath: m_LocalRotation.x
       value: -0
@@ -28158,7 +27325,6 @@ GameObject:
   - 33: {fileID: 1265075733}
   - 23: {fileID: 1265075732}
   - 136: {fileID: 1265075734}
-  - 54: {fileID: 1265075735}
   m_Layer: 0
   m_Name: pCube2.012
   m_TagString: Rocks
@@ -28232,22 +27398,6 @@ CapsuleCollider:
   m_Height: 0.017920358
   m_Direction: 1
   m_Center: {x: -0.048220433, y: 0.2003199, z: 0.010881673}
---- !u!54 &1265075735
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011261931356, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1265075730}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1266164260
 GameObject:
   m_ObjectHideFlags: 0
@@ -29010,7 +28160,6 @@ GameObject:
   - 33: {fileID: 1292034503}
   - 23: {fileID: 1292034502}
   - 136: {fileID: 1292034504}
-  - 54: {fileID: 1292034505}
   m_Layer: 0
   m_Name: pCube1.029
   m_TagString: Rocks
@@ -29084,22 +28233,6 @@ CapsuleCollider:
   m_Height: 0.015553177
   m_Direction: 1
   m_Center: {x: 0.009946494, y: 0.3122357, z: -0.0006827697}
---- !u!54 &1292034505
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011335620552, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1292034500}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1292108564
 GameObject:
   m_ObjectHideFlags: 0
@@ -29324,7 +28457,6 @@ GameObject:
   - 33: {fileID: 1311511098}
   - 23: {fileID: 1311511097}
   - 136: {fileID: 1311511099}
-  - 54: {fileID: 1311511100}
   m_Layer: 0
   m_Name: pCube1.006
   m_TagString: Rocks
@@ -29398,22 +28530,6 @@ CapsuleCollider:
   m_Height: 0.01712904
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0.0000000037252903}
---- !u!54 &1311511100
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011018129824, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1311511095}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1316805503
 GameObject:
   m_ObjectHideFlags: 0
@@ -29456,7 +28572,6 @@ GameObject:
   - 33: {fileID: 1317570592}
   - 23: {fileID: 1317570591}
   - 136: {fileID: 1317570593}
-  - 54: {fileID: 1317570594}
   m_Layer: 0
   m_Name: pCube1.038
   m_TagString: Rocks
@@ -29530,22 +28645,6 @@ CapsuleCollider:
   m_Height: 0.021375252
   m_Direction: 1
   m_Center: {x: -0.004244657, y: 0.13729696, z: 0.017949244}
---- !u!54 &1317570594
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011222373288, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1317570589}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1320109279
 GameObject:
   m_ObjectHideFlags: 0
@@ -30308,7 +29407,6 @@ GameObject:
   - 33: {fileID: 1355744607}
   - 23: {fileID: 1355744606}
   - 136: {fileID: 1355744608}
-  - 54: {fileID: 1355744609}
   m_Layer: 0
   m_Name: pCube1.009
   m_TagString: Rocks
@@ -30382,22 +29480,6 @@ CapsuleCollider:
   m_Height: 0.021375256
   m_Direction: 1
   m_Center: {x: -0.0003672697, y: 0.08241816, z: 0.010183795}
---- !u!54 &1355744609
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013291662390, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1355744604}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1358462231
 GameObject:
   m_ObjectHideFlags: 0
@@ -31090,7 +30172,6 @@ GameObject:
   - 33: {fileID: 1394202802}
   - 23: {fileID: 1394202801}
   - 136: {fileID: 1394202803}
-  - 54: {fileID: 1394202804}
   m_Layer: 0
   m_Name: pCube2.023
   m_TagString: Rocks
@@ -31164,22 +30245,6 @@ CapsuleCollider:
   m_Height: 0.013125046
   m_Direction: 1
   m_Center: {x: 0.0048419074, y: 0.055059172, z: 0.0025041574}
---- !u!54 &1394202804
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012672504158, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1394202799}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1394827281
 GameObject:
   m_ObjectHideFlags: 0
@@ -33397,7 +32462,6 @@ GameObject:
   - 33: {fileID: 1492052629}
   - 23: {fileID: 1492052628}
   - 136: {fileID: 1492052630}
-  - 54: {fileID: 1492052631}
   m_Layer: 0
   m_Name: pCube1
   m_TagString: Rocks
@@ -33471,22 +32535,6 @@ CapsuleCollider:
   m_Height: 0.01555319
   m_Direction: 1
   m_Center: {x: 4.656613e-10, y: 0, z: 0}
---- !u!54 &1492052631
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013758163202, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1492052626}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1496331635
 GameObject:
   m_ObjectHideFlags: 0
@@ -34514,7 +33562,6 @@ GameObject:
   - 33: {fileID: 1533932979}
   - 23: {fileID: 1533932978}
   - 136: {fileID: 1533932980}
-  - 54: {fileID: 1533932981}
   m_Layer: 0
   m_Name: pCube1.018
   m_TagString: Rocks
@@ -34588,22 +33635,6 @@ CapsuleCollider:
   m_Height: 0.017129041
   m_Direction: 1
   m_Center: {x: -0.018572599, y: 0.06476039, z: 0.0029599299}
---- !u!54 &1533932981
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010972403302, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1533932976}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1534967577
 GameObject:
   m_ObjectHideFlags: 0
@@ -34646,7 +33677,6 @@ GameObject:
   - 33: {fileID: 1536073422}
   - 23: {fileID: 1536073421}
   - 136: {fileID: 1536073423}
-  - 54: {fileID: 1536073424}
   m_Layer: 0
   m_Name: pCube2.031
   m_TagString: Rocks
@@ -34720,22 +33750,6 @@ CapsuleCollider:
   m_Height: 0.01792036
   m_Direction: 1
   m_Center: {x: -0.04822043, y: 0.20031992, z: 0.010881681}
---- !u!54 &1536073424
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013797623058, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1536073419}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1536356008
 GameObject:
   m_ObjectHideFlags: 0
@@ -34970,7 +33984,6 @@ GameObject:
   - 33: {fileID: 1540911579}
   - 23: {fileID: 1540911578}
   - 136: {fileID: 1540911580}
-  - 54: {fileID: 1540911581}
   m_Layer: 0
   m_Name: pCube1.015
   m_TagString: Rocks
@@ -35044,22 +34057,6 @@ CapsuleCollider:
   m_Height: 0.015553178
   m_Direction: 1
   m_Center: {x: 0.009946492, y: 0.3122357, z: -0.0006827744}
---- !u!54 &1540911581
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010742843602, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1540911576}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1542303858
 GameObject:
   m_ObjectHideFlags: 0
@@ -35858,7 +34855,6 @@ GameObject:
   - 33: {fileID: 1579761639}
   - 23: {fileID: 1579761638}
   - 136: {fileID: 1579761640}
-  - 54: {fileID: 1579761641}
   m_Layer: 0
   m_Name: pCube2.027
   m_TagString: Rocks
@@ -35932,22 +34928,6 @@ CapsuleCollider:
   m_Height: 0.013125049
   m_Direction: 1
   m_Center: {x: 0.004841908, y: 0.055059183, z: 0.0025041597}
---- !u!54 &1579761641
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011239139424, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1579761636}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1580342246
 GameObject:
   m_ObjectHideFlags: 0
@@ -35960,7 +34940,6 @@ GameObject:
   - 33: {fileID: 1580342249}
   - 23: {fileID: 1580342248}
   - 136: {fileID: 1580342250}
-  - 54: {fileID: 1580342251}
   m_Layer: 0
   m_Name: pCube2.030
   m_TagString: Rocks
@@ -36034,22 +35013,6 @@ CapsuleCollider:
   m_Height: 0.00999999
   m_Direction: 1
   m_Center: {x: -0.02526655, y: 0.27117905, z: 0.024960235}
---- !u!54 &1580342251
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013647933136, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1580342246}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1583540173
 GameObject:
   m_ObjectHideFlags: 0
@@ -36366,7 +35329,6 @@ GameObject:
   - 33: {fileID: 1588072434}
   - 23: {fileID: 1588072433}
   - 136: {fileID: 1588072435}
-  - 54: {fileID: 1588072436}
   m_Layer: 0
   m_Name: pCube1.002
   m_TagString: Rocks
@@ -36440,22 +35402,6 @@ CapsuleCollider:
   m_Height: 0.02137526
   m_Direction: 1
   m_Center: {x: 9.313226e-10, y: 0, z: 0}
---- !u!54 &1588072436
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013553892224, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1588072431}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1593634045
 GameObject:
   m_ObjectHideFlags: 0
@@ -37335,7 +36281,6 @@ GameObject:
   - 33: {fileID: 1627866508}
   - 23: {fileID: 1627866507}
   - 136: {fileID: 1627866509}
-  - 54: {fileID: 1627866510}
   m_Layer: 0
   m_Name: pCube1.035
   m_TagString: Rocks
@@ -37409,22 +36354,6 @@ CapsuleCollider:
   m_Height: 0.015553206
   m_Direction: 1
   m_Center: {x: 0.028124657, y: 0.18028526, z: -0.0026321362}
---- !u!54 &1627866510
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011681666428, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1627866505}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1630445605
 GameObject:
   m_ObjectHideFlags: 0
@@ -37773,7 +36702,6 @@ GameObject:
   - 33: {fileID: 1646349143}
   - 23: {fileID: 1646349142}
   - 136: {fileID: 1646349144}
-  - 54: {fileID: 1646349145}
   m_Layer: 0
   m_Name: pCube1.004
   m_TagString: Rocks
@@ -37847,22 +36775,6 @@ CapsuleCollider:
   m_Height: 0.021375252
   m_Direction: 1
   m_Center: {x: -0.0003672674, y: 0.082418144, z: 0.010183795}
---- !u!54 &1646349145
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012255930678, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1646349140}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1647895966
 GameObject:
   m_ObjectHideFlags: 0
@@ -37905,7 +36817,6 @@ GameObject:
   - 33: {fileID: 1647959662}
   - 23: {fileID: 1647959661}
   - 136: {fileID: 1647959663}
-  - 54: {fileID: 1647959664}
   m_Layer: 0
   m_Name: pCube2.005
   m_TagString: Rocks
@@ -37979,22 +36890,6 @@ CapsuleCollider:
   m_Height: 0.013125046
   m_Direction: 1
   m_Center: {x: 0.0048419083, y: 0.05505917, z: 0.0025041546}
---- !u!54 &1647959664
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011523899042, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1647959659}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1650968170
 GameObject:
   m_ObjectHideFlags: 0
@@ -39541,7 +38436,6 @@ GameObject:
   - 33: {fileID: 1726028622}
   - 23: {fileID: 1726028621}
   - 136: {fileID: 1726028623}
-  - 54: {fileID: 1726028624}
   m_Layer: 0
   m_Name: pCube1.005
   m_TagString: Rocks
@@ -39615,22 +38509,6 @@ CapsuleCollider:
   m_Height: 0.015553206
   m_Direction: 1
   m_Center: {x: 0.028124662, y: 0.18028526, z: -0.0026321374}
---- !u!54 &1726028624
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011128624224, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1726028619}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1726172733
 GameObject:
   m_ObjectHideFlags: 0
@@ -40873,7 +39751,6 @@ GameObject:
   - 33: {fileID: 1771088983}
   - 23: {fileID: 1771088982}
   - 136: {fileID: 1771088984}
-  - 54: {fileID: 1771088985}
   m_Layer: 0
   m_Name: pCube2.001
   m_TagString: Rocks
@@ -40947,22 +39824,6 @@ CapsuleCollider:
   m_Height: 0.017920358
   m_Direction: 1
   m_Center: {x: -0.048220433, y: 0.20031989, z: 0.010881671}
---- !u!54 &1771088985
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012214479478, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1771088980}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1772060110
 GameObject:
   m_ObjectHideFlags: 0
@@ -41036,7 +39897,6 @@ GameObject:
   - 33: {fileID: 1776215814}
   - 23: {fileID: 1776215813}
   - 136: {fileID: 1776215815}
-  - 54: {fileID: 1776215816}
   m_Layer: 0
   m_Name: pCube1.021
   m_TagString: Rocks
@@ -41110,22 +39970,6 @@ CapsuleCollider:
   m_Height: 0.01712904
   m_Direction: 1
   m_Center: {x: -0.0185726, y: 0.06476038, z: 0.0029599299}
---- !u!54 &1776215816
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011676266102, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1776215811}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1776887432
 GameObject:
   m_ObjectHideFlags: 0
@@ -41168,7 +40012,6 @@ GameObject:
   - 33: {fileID: 1777127222}
   - 23: {fileID: 1777127221}
   - 136: {fileID: 1777127223}
-  - 54: {fileID: 1777127224}
   m_Layer: 0
   m_Name: pCube1.039
   m_TagString: Rocks
@@ -41242,22 +40085,6 @@ CapsuleCollider:
   m_Height: 0.015553176
   m_Direction: 1
   m_Center: {x: 0.009946492, y: 0.31223568, z: -0.0006827788}
---- !u!54 &1777127224
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013255486026, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1777127219}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1778004308
 GameObject:
   m_ObjectHideFlags: 0
@@ -41270,7 +40097,6 @@ GameObject:
   - 33: {fileID: 1778004311}
   - 23: {fileID: 1778004310}
   - 136: {fileID: 1778004312}
-  - 54: {fileID: 1778004313}
   m_Layer: 0
   m_Name: pCube2.011
   m_TagString: Rocks
@@ -41344,22 +40170,6 @@ CapsuleCollider:
   m_Height: 0.013125047
   m_Direction: 1
   m_Center: {x: 0.0048419083, y: 0.055059176, z: 0.0025041562}
---- !u!54 &1778004313
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011089031356, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1778004308}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1779699299
 GameObject:
   m_ObjectHideFlags: 0
@@ -41692,7 +40502,6 @@ GameObject:
   - 33: {fileID: 1799741911}
   - 23: {fileID: 1799741910}
   - 136: {fileID: 1799741912}
-  - 54: {fileID: 1799741913}
   m_Layer: 0
   m_Name: pCube1.034
   m_TagString: Rocks
@@ -41766,22 +40575,6 @@ CapsuleCollider:
   m_Height: 0.01712904
   m_Direction: 1
   m_Center: {x: -0.018572602, y: 0.06476038, z: 0.0029599334}
---- !u!54 &1799741913
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011475690590, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1799741908}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1800686334
 GameObject:
   m_ObjectHideFlags: 0
@@ -42453,7 +41246,6 @@ GameObject:
   - 33: {fileID: 1841793067}
   - 23: {fileID: 1841793066}
   - 136: {fileID: 1841793068}
-  - 54: {fileID: 1841793069}
   m_Layer: 0
   m_Name: pCube2.029
   m_TagString: Rocks
@@ -42527,22 +41319,6 @@ CapsuleCollider:
   m_Height: 0.013125048
   m_Direction: 1
   m_Center: {x: 0.00484191, y: 0.055059176, z: 0.0025041578}
---- !u!54 &1841793069
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012312864668, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1841793064}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1842624966
 GameObject:
   m_ObjectHideFlags: 0
@@ -42647,7 +41423,6 @@ GameObject:
   - 33: {fileID: 1847433777}
   - 23: {fileID: 1847433776}
   - 136: {fileID: 1847433778}
-  - 54: {fileID: 1847433779}
   m_Layer: 0
   m_Name: pCube1.036
   m_TagString: Rocks
@@ -42721,22 +41496,6 @@ CapsuleCollider:
   m_Height: 0.015553207
   m_Direction: 1
   m_Center: {x: 0.028124655, y: 0.18028526, z: -0.0026321334}
---- !u!54 &1847433779
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011112992492, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1847433774}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1852948748
 GameObject:
   m_ObjectHideFlags: 0
@@ -43042,7 +41801,6 @@ GameObject:
   - 33: {fileID: 1864263532}
   - 23: {fileID: 1864263531}
   - 136: {fileID: 1864263533}
-  - 54: {fileID: 1864263534}
   m_Layer: 0
   m_Name: pCube2.032
   m_TagString: Rocks
@@ -43116,22 +41874,6 @@ CapsuleCollider:
   m_Height: 0.01792036
   m_Direction: 1
   m_Center: {x: -0.048220426, y: 0.20031992, z: 0.010881678}
---- !u!54 &1864263534
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010862787154, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1864263529}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1866531066
 GameObject:
   m_ObjectHideFlags: 0
@@ -43385,7 +42127,6 @@ GameObject:
   - 33: {fileID: 1873596265}
   - 23: {fileID: 1873596264}
   - 136: {fileID: 1873596266}
-  - 54: {fileID: 1873596267}
   m_Layer: 0
   m_Name: pCube1.014
   m_TagString: Rocks
@@ -43459,22 +42200,6 @@ CapsuleCollider:
   m_Height: 0.015553191
   m_Direction: 1
   m_Center: {x: 0.024477102, y: 0.15709352, z: -0.0022770294}
---- !u!54 &1873596267
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012802186974, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1873596262}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1879889265
 GameObject:
   m_ObjectHideFlags: 0
@@ -43588,7 +42313,6 @@ GameObject:
   - 33: {fileID: 1882916472}
   - 23: {fileID: 1882916471}
   - 136: {fileID: 1882916473}
-  - 54: {fileID: 1882916474}
   m_Layer: 0
   m_Name: pCube1.003
   m_TagString: Rocks
@@ -43662,22 +42386,6 @@ CapsuleCollider:
   m_Height: 0.015553192
   m_Direction: 1
   m_Center: {x: 0.0244771, y: 0.15709352, z: -0.0022770197}
---- !u!54 &1882916474
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000013311107732, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1882916469}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1882927774
 GameObject:
   m_ObjectHideFlags: 0
@@ -44167,7 +42875,6 @@ GameObject:
   - 33: {fileID: 1912508377}
   - 23: {fileID: 1912508376}
   - 136: {fileID: 1912508378}
-  - 54: {fileID: 1912508379}
   m_Layer: 0
   m_Name: pCube2.028
   m_TagString: Rocks
@@ -44241,22 +42948,6 @@ CapsuleCollider:
   m_Height: 0.013125048
   m_Direction: 1
   m_Center: {x: 0.0048419065, y: 0.055059172, z: 0.0025041562}
---- !u!54 &1912508379
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012441493526, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1912508374}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1916510756
 GameObject:
   m_ObjectHideFlags: 0
@@ -44313,7 +43004,6 @@ GameObject:
   - 33: {fileID: 1919312674}
   - 23: {fileID: 1919312673}
   - 136: {fileID: 1919312675}
-  - 54: {fileID: 1919312676}
   m_Layer: 0
   m_Name: pCube1.037
   m_TagString: Rocks
@@ -44387,22 +43077,6 @@ CapsuleCollider:
   m_Height: 0.015553208
   m_Direction: 1
   m_Center: {x: 0.02812465, y: 0.18028527, z: -0.002632139}
---- !u!54 &1919312676
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000014021514704, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1919312671}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1919764871
 GameObject:
   m_ObjectHideFlags: 0
@@ -44797,7 +43471,6 @@ GameObject:
   - 33: {fileID: 1933842724}
   - 23: {fileID: 1933842723}
   - 136: {fileID: 1933842725}
-  - 54: {fileID: 1933842726}
   m_Layer: 0
   m_Name: pCube1.031
   m_TagString: Rocks
@@ -44871,22 +43544,6 @@ CapsuleCollider:
   m_Height: 0.0155531755
   m_Direction: 1
   m_Center: {x: 0.009946472, y: 0.31223568, z: -0.0006827779}
---- !u!54 &1933842726
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011630896128, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1933842721}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &1939325229
 GameObject:
   m_ObjectHideFlags: 0
@@ -46605,7 +45262,6 @@ GameObject:
   - 33: {fileID: 2019532724}
   - 23: {fileID: 2019532723}
   - 136: {fileID: 2019532725}
-  - 54: {fileID: 2019532726}
   m_Layer: 0
   m_Name: pCube3
   m_TagString: Rocks
@@ -46679,22 +45335,6 @@ CapsuleCollider:
   m_Height: 0.00999999
   m_Direction: 1
   m_Center: {x: -0.09752635, y: 0.44256485, z: 0.03174084}
---- !u!54 &2019532726
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010570714060, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2019532721}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &2019787153
 GameObject:
   m_ObjectHideFlags: 0
@@ -46814,7 +45454,6 @@ GameObject:
   - 33: {fileID: 2021549458}
   - 23: {fileID: 2021549457}
   - 136: {fileID: 2021549459}
-  - 54: {fileID: 2021549460}
   m_Layer: 0
   m_Name: pCube1.026
   m_TagString: Rocks
@@ -46888,22 +45527,6 @@ CapsuleCollider:
   m_Height: 0.015553193
   m_Direction: 1
   m_Center: {x: 0.02447711, y: 0.15709354, z: -0.002277029}
---- !u!54 &2021549460
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000012674181216, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2021549455}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &2023949764
 GameObject:
   m_ObjectHideFlags: 0
@@ -47654,7 +46277,6 @@ GameObject:
   - 33: {fileID: 2056069636}
   - 23: {fileID: 2056069635}
   - 136: {fileID: 2056069637}
-  - 54: {fileID: 2056069638}
   m_Layer: 0
   m_Name: pCube2.007
   m_TagString: Rocks
@@ -47728,22 +46350,6 @@ CapsuleCollider:
   m_Height: 0.00999999
   m_Direction: 1
   m_Center: {x: -0.025266562, y: 0.27117905, z: 0.024960227}
---- !u!54 &2056069638
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011374528838, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2056069633}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &2057868407
 GameObject:
   m_ObjectHideFlags: 0
@@ -48082,7 +46688,6 @@ GameObject:
   - 33: {fileID: 2073083969}
   - 23: {fileID: 2073083968}
   - 136: {fileID: 2073083970}
-  - 54: {fileID: 2073083971}
   m_Layer: 0
   m_Name: pCube2.013
   m_TagString: Rocks
@@ -48156,22 +46761,6 @@ CapsuleCollider:
   m_Height: 0.013125049
   m_Direction: 1
   m_Center: {x: 0.00484191, y: 0.055059183, z: 0.0025041578}
---- !u!54 &2073083971
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011466684822, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2073083966}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &2073341804
 GameObject:
   m_ObjectHideFlags: 0
@@ -48246,7 +46835,6 @@ GameObject:
   - 33: {fileID: 2074376474}
   - 23: {fileID: 2074376473}
   - 136: {fileID: 2074376475}
-  - 54: {fileID: 2074376476}
   m_Layer: 0
   m_Name: pCube2.006
   m_TagString: Rocks
@@ -48320,22 +46908,6 @@ CapsuleCollider:
   m_Height: 0.013125052
   m_Direction: 1
   m_Center: {x: -0.0001840548, y: 0.041030634, z: 0.0009447073}
---- !u!54 &2074376476
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000010026463050, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2074376471}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &2075110747
 GameObject:
   m_ObjectHideFlags: 0
@@ -48702,7 +47274,6 @@ GameObject:
   - 33: {fileID: 2097891597}
   - 23: {fileID: 2097891596}
   - 136: {fileID: 2097891598}
-  - 54: {fileID: 2097891599}
   m_Layer: 0
   m_Name: pCube1.042
   m_TagString: Rocks
@@ -48776,22 +47347,6 @@ CapsuleCollider:
   m_Height: 0.021375254
   m_Direction: 1
   m_Center: {x: -0.0003672693, y: 0.08241815, z: 0.010183795}
---- !u!54 &2097891599
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54000011459666328, guid: 5f2248937004b5a469be4b8744b7f17d,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2097891594}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 126
-  m_CollisionDetection: 1
 --- !u!1 &2098864357
 GameObject:
   m_ObjectHideFlags: 0
