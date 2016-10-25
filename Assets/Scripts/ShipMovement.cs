@@ -12,7 +12,6 @@ public class ShipMovement : MonoBehaviour {
     public Transform lever;
 
 
-
     void Update()
     {
 
@@ -22,7 +21,6 @@ public class ShipMovement : MonoBehaviour {
         //Movement Speed
         if (lever.transform.localEulerAngles.x > 2f && lever.transform.localEulerAngles.x < 10f && movementSpeed < 8f)
         {
-            print("Test Worked");
             movementSpeed += Time.deltaTime * 1f;
         }
         else if (lever.transform.localEulerAngles.x > 0f && lever.transform.localEulerAngles.x < 2f && movementSpeed != 0 && movementSpeed > 0)
@@ -35,15 +33,26 @@ public class ShipMovement : MonoBehaviour {
         }
 
         //Rotation
-        if ((rudder.transform.localEulerAngles.y > 11f && rudder.transform.localEulerAngles.y < 30f && rotationSpeed < 30f) || (rudder.transform.localEulerAngles.y > 350f && rudder.transform.localEulerAngles.y < 359f && rotationSpeed < 0 && rotationSpeed != 0) || (rudder.transform.localEulerAngles.y > 1f && rudder.transform.localEulerAngles.y < 10f && rotationSpeed < 0 && rotationSpeed != 0))
+        if (rudder.transform.localEulerAngles.y > 11f && rudder.transform.localEulerAngles.y < 30f && rotationSpeed < 30f)
         {
             print("Moving Right");
             rotationSpeed += 1f;
         }
 
-        else if ((rudder.transform.localEulerAngles.y > 330f && rudder.transform.localEulerAngles.y < 349f && rotationSpeed > -30) || (rudder.transform.localEulerAngles.y > 1f && rudder.transform.localEulerAngles.y < 10f && rotationSpeed > 0 && rotationSpeed != 0) || (rudder.transform.localEulerAngles.y > 350f && rudder.transform.localEulerAngles.y < 359f && rotationSpeed < 0 && rotationSpeed != 0))
+        else if (rudder.transform.localEulerAngles.y > 330f && rudder.transform.localEulerAngles.y < 349f && rotationSpeed > -30)
         {
             print("Moving left");
+            rotationSpeed -= 1f;
+        }
+        else if (rudder.transform.localEulerAngles.y > 350f && rudder.transform.localEulerAngles.y < 359f && rotationSpeed < 0 && rotationSpeed != 0 || rudder.transform.localEulerAngles.y > 1f && rudder.transform.localEulerAngles.y < 10f && rotationSpeed < 0 && rotationSpeed != 0)
+        {
+            print("Moving Straight");
+            rotationSpeed += 1f;
+        }
+
+        else if (rudder.transform.localEulerAngles.y > 1f && rudder.transform.localEulerAngles.y < 10f && rotationSpeed > 0 && rotationSpeed != 0 || rudder.transform.localEulerAngles.y > 350f && rudder.transform.localEulerAngles.y < 359f && rotationSpeed < 0 && rotationSpeed != 0)
+        {
+            print("Moving Straight");
             rotationSpeed -= 1f;
         }
 
